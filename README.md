@@ -9,6 +9,19 @@ Convenções e Boas Práticas: Dicas sobre convenções para commits, branches, 
 <!-- Tutoriais e Exemplos: Guias passo a passo para realizar tarefas comuns e avançadas no Git. -->
 Este repositório é ideal para desenvolvedores de todos os níveis que desejam melhorar suas habilidades com Git e manter boas práticas no desenvolvimento de software.
 
+
+## Estrutura
+
+- **Comandos**: Exemplos e explicações de comandos Git.
+- **Convenções**: Boas práticas e convenções para commits e branches.
+
+
+## Contribuindo
+
+Sinta-se à vontade para contribuir com melhorias e correções.
+
+_______________________________
+
 Espero que gostem.
 
 
